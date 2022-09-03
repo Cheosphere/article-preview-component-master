@@ -6,6 +6,8 @@ El desafío es construir este componente de vista previa del artículo y lograr 
 - CSS
 - JS Vanilla
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/188288622-2bb00e8f-0c28-47b4-a89d-778ce2095a7a.jpg)
+
 # Guía de Estilo
 
 ## Diseño
