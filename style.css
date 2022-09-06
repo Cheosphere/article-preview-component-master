@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Manrope', sans-serif;
-    background-color: rgb(30, 30, 30);
+    background-color: hsl(210, 46%, 95%);
 }
 
 /* ESTILOS CONTAINER */
@@ -26,7 +26,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: hsl(210, 46%, 95%);
     transition: all .3s ease-out;
 }
 
