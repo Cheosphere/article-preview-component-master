@@ -12,6 +12,7 @@ body {
 }
 
 body {
+    min-height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +23,7 @@ body {
 /* ESTILOS CONTAINER */
 .container {
     width: 1440px;
-    height: 800px;
+    height: fit-content;
     display: flex;
     justify-content: center;
     align-items: center;
